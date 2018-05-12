@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8595
     wikipedia: http://en.wikipedia.org/wiki/Ian_Standish_Monteith_Hamilton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22021#Gallipoli-Diary-Volume-2
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2007-07-09'
 gutenberg_type: Text
